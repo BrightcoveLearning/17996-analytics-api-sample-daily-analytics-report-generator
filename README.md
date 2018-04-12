@@ -1,0 +1,2 @@
+# 17996-analytics-api-sample-daily-analytics-report-generator
+In this sample, you will learn how to use the Analytics API to generate a daily analytics report on all the videos in your account for the earliest date that data is available to the current date. The report is generated in CSV format. A report for each video is generated, and then you must copy and save the data to a CSV file before proceeding to the next video.
